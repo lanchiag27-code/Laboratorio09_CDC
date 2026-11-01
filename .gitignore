@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Variables privadas
+.env
+.env.*
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Archivos locales
+.vscode/
+.idea/
